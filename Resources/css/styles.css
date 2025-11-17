@@ -6,7 +6,7 @@ body {
 }
 #container {
     background-color: grey;
-    color: white;
+    color: black;
     border-radius: 20px;
     width: 80%;
     margin: auto;
@@ -24,7 +24,7 @@ body {
 }
 #container a {
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
 }
 h1 {
     text-align: center;
