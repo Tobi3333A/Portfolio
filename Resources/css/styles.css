@@ -38,6 +38,7 @@ body {
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    max-width: 300px;
 }
 #container a {
     color: white;
@@ -50,7 +51,7 @@ h1 {
     font-weight: bold;
     color: #a32904;
 }
-#content p, #content h3 {
+#content p {
     text-align: justify;
     font-size: 1.2rem;
     line-height: 1.5;
